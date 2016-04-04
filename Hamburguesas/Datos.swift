@@ -1,6 +1,5 @@
 //
-//  Datos.swift
-//  Hamburguesas
+//  Hamburguesas :)
 //
 //  Created by Juan Antonio Rojas Hinojosa on 3/26/16.
 //  Copyright © 2016 H. All rights reserved.

@@ -1,5 +1,4 @@
 //
-//  AppDelegate.swift
 //  Hamburguesas
 //
 //  Created by Juan Antonio Rojas Hinojosa on 3/26/16.
